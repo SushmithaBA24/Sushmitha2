@@ -1,1 +1,3 @@
-# Sushmitha2
+Swiggy Funnel Analysis Capstone project : 
+
+In my Swiggy Funnel Analysis Capstone Project, I formulated targeted strategies to optimize conversion rates by meticulously analyzing variances within the Swiggy Funnel. This involved a deep dive into each stage of the customer journey, identifying key drop-off points and areas for improvement. Leveraging these insights, I enhanced the efficacy of conversion-focused initiatives, tailoring them to address specific issues and maximize user engagement. By implementing data-driven strategies, the project successfully improved the overall conversion rates, contributing to a more streamlined and effective user experience on the Swiggy platform. This comprehensive approach not only boosted immediate conversion metrics but also provided a solid foundation for ongoing optimization efforts.
